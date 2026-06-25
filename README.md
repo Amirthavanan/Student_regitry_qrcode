@@ -1,2 +1,2 @@
 # Student_regitry_qrcode
-Details of student with their unique QR or Barcode IDs
+Details of student with their unique QR or Barcode IDs - <a href="https://studentregitryqrcode-gxiczbnhqnapm3taxufzjh.streamlit.app/">Link</a>
