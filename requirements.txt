@@ -1,0 +1,8 @@
+streamlit
+numpy
+qrcode[pil]
+Pillow
+python-barcode
+opencv-python-headless
+pyzbar
+streamlit-option-menu
