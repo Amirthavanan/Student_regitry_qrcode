@@ -28,3 +28,7 @@ Details of student with their unique QR or Barcode IDs - <a href="https://studen
 </ul><br>
 Developing this project allowed me to dive deep into vectorised array performance, barcode decoding tolerances under different lighting conditions, and creating polished frontends that keep users engaged.
 Check out the code/UI screenshots below! I would love to hear your feedback on the implementation. Let’s connect! 👇
+<h3>Preview</h3>
+<img src="img1.png">
+<img src="img2.png">
+<img src="img3.png">
